@@ -1,0 +1,11 @@
+/*
+Theme Name:   Fruitshow
+Author: Sawa Tomanska
+Description: This is a my first theme for Wordpress. I used a Bootstrap framework.
+Version: 1.0
+License: GNU General Public License v2 or later
+*/
+
+body {
+    background-color: black;
+}

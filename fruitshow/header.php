@@ -4,7 +4,6 @@
  *
  * @package FruitShow
  */
-
 ?>
 <!doctype html>
 <html >
@@ -13,3 +12,4 @@
 </head>
 
 <body <?php body_class(); ?>>
+    <header></header>
